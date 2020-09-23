@@ -1,4 +1,4 @@
-	Hi User,
+Hi User,
 
 	This is Sundharalingam. 
 	Here I have automated a practice website(https://www.rahulshettyacademy.com/AutomationPractice/) using selenium, 
@@ -9,6 +9,6 @@
 		
 					Happy Coding!!!!!					Happy Learning!!!!!
 		
-	Thanks and Regards,
-	Sundharalingam
-	LinkedIn:https://www.linkedin.com/in/sundharalingamnr/
+Thanks and Regards,
+Sundharalingam
+LinkedIn:https://www.linkedin.com/in/sundharalingamnr/
