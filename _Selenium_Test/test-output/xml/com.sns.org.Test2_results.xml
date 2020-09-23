@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="15"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="38.937">
+  <properties />
+  
+  
+            <testcase name="Task6" time="2.828" classname="com.sns.org.Test2" />
+                <testcase name="Task10" time="0.401" classname="com.sns.org.Test2" />
+                <testcase name="Task7" time="5.442" classname="com.sns.org.Test2" />
+                <testcase name="Task13" time="4.972" classname="com.sns.org.Test2" />
+                <testcase name="Task3" time="0.635" classname="com.sns.org.Test2" />
+                <testcase name="Task12" time="0.816" classname="com.sns.org.Test2" />
+                <testcase name="Test15" time="2.798" classname="com.sns.org.Test2" />
+                <testcase name="Task4" time="0.651" classname="com.sns.org.Test2" />
+                <testcase name="Task5" time="8.900" classname="com.sns.org.Test2" />
+                <testcase name="Task8" time="2.655" classname="com.sns.org.Test2" />
+                <testcase name="Task2" time="1.661" classname="com.sns.org.Test2" />
+                <testcase name="Task1" time="0.415" classname="com.sns.org.Test2" />
+                <testcase name="Task9" time="2.326" classname="com.sns.org.Test2" />
+                <testcase name="Task14" time="3.951" classname="com.sns.org.Test2" />
+                <testcase name="Task11" time="0.486" classname="com.sns.org.Test2" />
+      
+</testsuite>
